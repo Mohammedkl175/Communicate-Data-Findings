@@ -1,0 +1,1 @@
+jupyter nbconvert --to slides --no-input slide_deck_template.ipynb
