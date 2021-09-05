@@ -1,17 +1,27 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# (Bay Wheels Bike Sharing System)
+## by (Mohammed Khalil)
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+> Bay Wheels is a regional public bicycle sharing system in California's San Francisco Bay Area.
+
+It is operated by Motivate in a partnership with the Metropolitan Transportation Commission and the Bay Area Air Quality Management District. Bay Wheels is 'the first regional and large-scale bicycle sharing system deployed in California and on the West Coast of the United States.
+
+It was established as Bay Area Bike Share in August 2013. As of January 2018, the Bay Wheels system had over 2,600 bicycles in 262 stations across San Francisco, East Bay and San Jose.
+
+In June 2017 the system was officially re-launched as Ford GoBike in a partnership with Ford Motor Company.
+
+After Motivate's acquisition by Lyft, the system was renamed to Bay Wheels in June 2019. The system is expected to expand to 7,000 bicycles around 540 stations in San Francisco, Oakland, Berkeley, Emeryville, and San Jose.
 
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+> Bike Ride Duration is less one hour, subscribers have a more weekly usage compared to customers, subscribers ride much shorter trips compared to customers on each day of the week.
 
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+> 1- Subscribers use it from Mon to Fri from especially (6-10 AM) & (16-19 AM) , Customers use it All days especially in afternoon.
+
+2- subscribers ride much shorter trips compared to customers on each day of the week.
